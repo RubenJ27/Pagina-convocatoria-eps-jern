@@ -10,8 +10,8 @@ export const TablePage = () => {
 
   return (
     <>
-       <section className="home container-fluid" id="home">
-        <div className="swiper home-swiper">
+       <section      className="home container-fluid" id="home">
+        <div      className="swiper home-swiper">
          
             
           <h4>llegue aqui</h4>
